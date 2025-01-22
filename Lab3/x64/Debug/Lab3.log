@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\nasty\source\it_3sem\Lab5\Lab3\MyForm.h(386,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nasty\source\it_3sem\Lab5\Lab3\MyForm.h(386,14): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab3.vcxproj -> C:\Users\nasty\source\it_3sem\Lab5\x64\Debug\Lab3.exe

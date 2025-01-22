@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\nasty\source\it_3sem\Lab4\Lab3\MyForm.h(917,20): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab3.vcxproj -> C:\Users\nasty\source\it_3sem\Lab4\x64\Debug\Lab3.exe

@@ -1,0 +1,6 @@
+C:\Users\nasty\source\it_3sem\Lab3\Lab3\x64\Debug\Lab3.vcxproj.AssemblyReference.cache
+C:\Users\nasty\source\it_3sem\Lab3\Lab3\x64\Debug\Lab3.MyForm.resources
+C:\Users\nasty\source\it_3sem\Lab3\Lab3\x64\Debug\Lab3.vcxproj.GenerateResource.cache
+C:\Users\nasty\source\it_3sem\Lab4\Lab3\x64\Debug\Lab3.vcxproj.AssemblyReference.cache
+C:\Users\nasty\source\it_3sem\Lab4\Lab3\x64\Debug\Lab3.MyForm.resources
+C:\Users\nasty\source\it_3sem\Lab4\Lab3\x64\Debug\Lab3.vcxproj.GenerateResource.cache
